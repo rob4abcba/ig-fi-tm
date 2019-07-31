@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+(RL: CRA is for ReactJS web, not CRNA for React Native mobile app)
 
 ## Available Scripts
 
